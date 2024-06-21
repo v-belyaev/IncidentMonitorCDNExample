@@ -1,6 +1,6 @@
 {
-  "systemStatus": true,
-  "validTill": 1718962028000,
+  "systemStatus": false,
+  "validTill": 1719051896000,
   "localisations": {
     "en": {
       "title": "Something Wrong",
